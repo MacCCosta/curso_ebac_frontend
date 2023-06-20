@@ -1,0 +1,12 @@
+Desenvolva o estudo do protótipo de baixa fidelidade e do protótipo de média fidelidade para 
+a apresentação para a Exploração Global.
+O app deverá oferecer funcionalidades:
+✓ Pesquisar destinos;
+✓ Pesquisar e reservar as acomodações;
+✓ Pesquisar, explorar e reservar atividades turísticas;
+✓ Pesquisar e reservar passagens aéreas;
+✓ Tela com informações da empresa;
+✓ Cadastro no newsletter;
+✓ Em todas as telas deve ter ícones indicando as redes sociais da empresa;
+✓ Não deve possuir telas de pagamento, os clientes irão fazer somente a reserva. Nessa 
+tela o cliente informa seus dados de contato para o envio.
